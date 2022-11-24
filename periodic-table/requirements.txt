@@ -1,0 +1,2 @@
+pyrqlite==2.1.1
+tornado==6.2
