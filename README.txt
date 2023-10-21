@@ -7,3 +7,5 @@ Chemistry projects created with Python
 
 2. Chemical Equation Balancer:
     Developed a chemical equation balancer, enabling users to easily balance chemical equations.
+
+![alt text](https://github.com/abdullahalkheshen/python-in-chemistry/blob/main/periodic_table.png?raw=true)
