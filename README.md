@@ -10,4 +10,4 @@ Chemistry projects created with Python
 
 <br>
 
-![alt text](https://github.com/abdullahalkheshen/python-in-chemistry/blob/main/periodic_table.png?raw=true)
+![alt text](https://github.com/abdullahalkheshen/python-in-chemistry/blob/main/periodic_table.jpg?raw=true)
